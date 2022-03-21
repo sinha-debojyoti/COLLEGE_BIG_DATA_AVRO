@@ -1,0 +1,34 @@
+{
+    "type": "record",
+    "name": "STUDENT_DETAILS",
+    "fields": [
+        {
+            "name": "FIRST_MIDDLE_NAME",
+            "type": "string"
+        },
+        {
+            "name": "STUDENT_LAST_NAME",
+            "type": "string"
+        },
+        {
+            "name": "GENDER",
+            "type": "string"
+        },
+        {
+            "name": "REGISTRATION_NO",
+            "type": "string"
+        },
+        {
+            "name": "STREAM",
+            "type": "string"
+        },
+        {
+            "name": "COURSE",
+            "type": "string"
+        },
+        {
+            "name": "UNIVERSITY_ROLL_NUMBER",
+            "type": "string"
+        }
+    ]
+}
